@@ -213,7 +213,7 @@
 }
 #main .every {
   width: 100%;
-  height: 654px;
+  height: auto;
 }
 #main .every .clean {
   width: 1200px;
@@ -313,6 +313,131 @@
   border-radius: 5px;
   color: #fff;
   font-size: 14px;
+}
+#main .baozhang {
+  width: 100%;
+}
+#main .baozhang .container {
+  width: 1200px;
+  background: #ffc0cb;
+  margin: 0 auto;
+}
+#main .baozhang .container h2 {
+  font-size: 30px;
+  font-family: "微软雅黑";
+  font-weight: 800;
+  text-align: center;
+}
+#main .baozhang .container h2 span {
+  color: #fb474f;
+  font-weight: bold;
+}
+#main .baozhang .container p {
+  font-size: 22px;
+  color: #3d3838;
+  margin: 0;
+  text-align: center;
+  padding: 10px 0px;
+}
+#main .baozhang .container .xuanze {
+  width: 100%;
+  padding-top: 20px;
+  background: #fff;
+  height: 66px;
+  font-family: "微软雅黑";
+}
+#main .baozhang .container .xuanze ul {
+  display: flex;
+  justify-content: center;
+}
+#main .baozhang .container .xuanze ul li {
+  width: 12%;
+  text-align: center;
+  color: #1d1515;
+  font-size: 18px;
+}
+#main .baozhang .container .xuanze ul li img {
+  display: inline-block;
+  vertical-align: middle;
+}
+#main .citys {
+  width: 100%;
+  clear: both;
+  padding-top: 50px;
+  height: 170px;
+  background: #fff;
+}
+#main .citys dl {
+  width: 1200px;
+  margin: 0 auto;
+}
+#main .citys dl dt {
+  float: left;
+  font-family: " 微软雅黑";
+  font-size: 18px;
+}
+#main .citys dl dd {
+  margin-left: 30px;
+  width: 1090px;
+  line-height: 30px;
+  float: left;
+}
+#main .citys dl dd a {
+  font-size: 16px;
+  color: #898989;
+  display: inline-block;
+  width: 9%;
+  text-align: center;
+  font-weight: 200;
+  cursor: pointer;
+  font-family: "微软雅黑";
+}
+#main .beian {
+  width: 100%;
+  background: #808080;
+}
+#main .beian .content {
+  width: 1200px;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+#main .beian .content p {
+  position: relative;
+  bottom: 20px;
+  text-align: left;
+  font-weight: bold;
+  width: 1200px;
+  margin: 0 auto;
+  background: none;
+  color: #1d1515;
+  font-size: 18px;
+}
+#main .beian .content .hezuo {
+  overflow: hidden;
+}
+#main .beian .content .hezuo li {
+  float: left;
+  width: 10%;
+  height: 60px;
+  text-align: center;
+  background: #fff;
+  margin-left: 1%;
+  line-height: 55px;
+  cursor: pointer;
+}
+#main .beian .content .hezuo li img {
+  vertical-align: middle;
+  width: 100px;
+}
+#main .footer {
+  height: 40px;
+  line-height: 40px;
+  padding-top: 0;
+}
+#main .footer p {
+  width: 1200px;
+  margin: 0 auto;
+  text-align: left;
 }
 @-moz-keyframes on {
   from {

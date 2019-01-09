@@ -2,55 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65cacb3e-cc3e-476e-86ca-bfad015f4c4b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/aboutUs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/comment.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/details.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/built.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/built.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/images/advising.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/images/banner1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/images/banner2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/images/banner3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/images/citypoint.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/images/echeng.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/images/erweima.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/images/hushi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/images/information.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/images/information1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/images/information2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/images/information3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/images/information4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/images/information5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/images/jiawu.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/images/kala.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/images/logo.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/built.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/jquery-1.10.1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/template.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/merchant.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/services.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/merchant.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/position.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/route.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/services.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/css/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/stylus/index.styl" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dist/js/built.js" afterPath="$PROJECT_DIR$/src/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/comment.json" afterPath="$PROJECT_DIR$/data/comment.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/index.json" afterPath="$PROJECT_DIR$/data/index.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/item.json" afterPath="$PROJECT_DIR$/data/item.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/service.json" afterPath="$PROJECT_DIR$/data/service.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/built.css" afterPath="$PROJECT_DIR$/dist/css/built.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/built.min.css" afterPath="$PROJECT_DIR$/dist/css/built.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/main.css" afterPath="$PROJECT_DIR$/src/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/stylus/main.styl" afterPath="$PROJECT_DIR$/src/stylus/main.styl" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -65,12 +23,27 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="banner3.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/images/banner3.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aboutbanner.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/images/aboutbanner.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            <state relative-caret-position="196">
+              <caret line="163" column="22" lean-forward="false" selection-start-line="163" selection-start-column="16" selection-end-line="163" selection-end-column="22" />
               <folding>
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -79,6 +52,9 @@
                 <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#ul#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -87,165 +63,61 @@
       <file leaf-file-name="main.styl" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/stylus/main.styl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-216">
-              <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+            <state relative-caret-position="323">
+              <caret line="383" column="0" lean-forward="false" selection-start-line="383" selection-start-column="0" selection-end-line="383" selection-end-column="0" />
               <folding>
+                <element signature="e#20#2679#0" expanded="false" />
                 <element signature="e#2698#4378#0" expanded="false" />
                 <element signature="e#3013#3873#0" expanded="false" />
+                <element signature="e#4392#6979#0" expanded="false" />
+                <element signature="e#6996#7812#0" expanded="false" />
+                <element signature="e#7100#7265#0" expanded="false" />
+                <element signature="e#7826#8394#0" expanded="false" />
+                <element signature="e#8408#9083#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mixins.styl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/stylus/mixins.styl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-              <folding />
-            </state>
+      <file leaf-file-name="2.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/images/2.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-891">
-              <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#1297#1362#0" expanded="false" />
-                <element signature="e#1387#1452#0" expanded="false" />
-                <element signature="e#1537#1757#0" expanded="false" />
-                <element signature="e#1782#1839#0" expanded="false" />
-                <element signature="e#1914#1993#0" expanded="false" />
-                <marker date="1547017795040" expanded="true" signature="2316:2755" ph="..." />
-                <marker date="1547017795040" expanded="true" signature="2343:2661" ph="..." />
-                <marker date="1547017795040" expanded="false" signature="2411:2600" ph="..." />
-                <marker date="1547017795040" expanded="true" signature="2428:2433" ph="..." />
-                <marker date="1547017795040" expanded="true" signature="2482:2583" ph="..." />
-                <marker date="1547017795040" expanded="true" signature="2629:2646" ph="..." />
-                <marker date="1547017795040" expanded="true" signature="2689:2742" ph="..." />
-                <marker date="1547017795040" expanded="true" signature="2862:2933" ph="..." />
-                <marker date="1547017795040" expanded="true" signature="3097:3475" ph="..." />
-                <marker date="1547017795040" expanded="true" signature="3135:3161" ph="..." />
-                <marker date="1547017795040" expanded="true" signature="3135:3458" ph="..." />
-                <marker date="1547017795040" expanded="true" signature="3316:3437" ph="..." />
-              </folding>
-            </state>
+      <file leaf-file-name="renzheng.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/images/renzheng.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/home.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1374">
-              <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-              <folding>
-                <marker date="1547016239000" expanded="true" signature="272:278" ph=" " />
-                <marker date="1547016239000" expanded="true" signature="981:2386" ph="..." />
-                <marker date="1547016239000" expanded="true" signature="1010:2243" ph="..." />
-                <marker date="1547016239000" expanded="true" signature="1040:1167" ph="..." />
-                <marker date="1547016239000" expanded="true" signature="1131:1150" ph="..." />
-                <marker date="1547016239000" expanded="true" signature="1196:2228" ph="..." />
-                <marker date="1547016239000" expanded="true" signature="1232:1399" ph="..." />
-                <marker date="1547016239000" expanded="true" signature="1252:1382" ph="..." />
-                <marker date="1547016239000" expanded="true" signature="1288:1361" ph="..." />
-                <marker date="1547016239000" expanded="true" signature="1435:1602" ph="..." />
-                <marker date="1547016239000" expanded="true" signature="1455:1585" ph="..." />
-                <marker date="1547016239000" expanded="true" signature="1491:1564" ph="..." />
-                <marker date="1547016239000" expanded="true" signature="1638:1805" ph="..." />
-                <marker date="1547016239000" expanded="true" signature="1658:1788" ph="..." />
-                <marker date="1547016239000" expanded="true" signature="1694:1767" ph="..." />
-                <marker date="1547016239000" expanded="true" signature="1841:2008" ph="..." />
-                <marker date="1547016239000" expanded="true" signature="1861:1991" ph="..." />
-                <marker date="1547016239000" expanded="true" signature="1897:1970" ph="..." />
-                <marker date="1547016239000" expanded="true" signature="2044:2211" ph="..." />
-                <marker date="1547016239000" expanded="true" signature="2064:2194" ph="..." />
-                <marker date="1547016239000" expanded="true" signature="2100:2173" ph="..." />
-                <marker date="1547016239000" expanded="true" signature="2275:2373" ph="..." />
-              </folding>
-            </state>
+      <file leaf-file-name="information.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/images/information.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gulpfile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
+      <file leaf-file-name="fuwushangimg.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/images/fuwushangimg.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="comment.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/comment.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-810">
-              <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-              <folding />
-            </state>
+      <file leaf-file-name="echeng.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/images/echeng.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/index.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-675">
-              <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-              <folding>
-                <element signature="e#1300#2584#0" expanded="false" />
-                <element signature="e#2588#3889#0" expanded="false" />
-                <element signature="e#3893#5227#0" expanded="false" />
-                <element signature="e#5231#6512#0" expanded="false" />
-                <element signature="e#6516#7799#0" expanded="false" />
-                <element signature="e#7803#9091#0" expanded="false" />
-                <element signature="e#9095#10391#0" expanded="false" />
-                <element signature="e#10395#11651#0" expanded="false" />
-                <element signature="e#11655#12951#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="item.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/item.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-204">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="service.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/service.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1068">
-              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-              <folding>
-                <element signature="e#4#193#0" expanded="false" />
-                <element signature="e#197#387#0" expanded="false" />
-                <element signature="e#391#578#0" expanded="false" />
-                <element signature="e#582#772#0" expanded="false" />
-                <element signature="e#776#965#0" expanded="false" />
-                <element signature="e#969#1158#0" expanded="false" />
-                <element signature="e#1162#1352#0" expanded="false" />
-                <element signature="e#1356#1545#0" expanded="false" />
-                <element signature="e#1549#1738#0" expanded="false" />
-                <element signature="e#1742#1930#0" expanded="false" />
-                <element signature="e#1934#2122#0" expanded="false" />
-                <element signature="e#2126#2313#0" expanded="false" />
-                <element signature="e#2317#2505#0" expanded="false" />
-                <element signature="e#2509#2696#0" expanded="false" />
-                <element signature="e#2700#2888#0" expanded="false" />
-                <element signature="e#2892#3080#0" expanded="false" />
-                <element signature="e#3084#3276#0" expanded="false" />
-                <element signature="e#3280#3468#0" expanded="false" />
-                <element signature="e#3472#3660#0" expanded="false" />
-              </folding>
-            </state>
+      <file leaf-file-name="citypoint.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/images/citypoint.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -264,8 +136,9 @@
     <findStrings>
       <find>class</find>
       <find>pink</find>
-      <find>nav-se</find>
       <find>margin-t</find>
+      <find>ev</find>
+      <find>nav-se</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -408,6 +281,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lsw\Desktop\jq_daowei\src\images" />
       <recent name="C:\Users\lsw\Desktop\jq_daowei\src\js" />
       <recent name="C:\Users\lsw\Desktop\jq_daowei\src\css" />
       <recent name="C:\Users\lsw\Desktop\jq_daowei" />
@@ -506,16 +380,15 @@
       <workItem from="1546918596487" duration="3255000" />
       <workItem from="1546921929395" duration="8297000" />
       <workItem from="1546993347323" duration="26111000" />
-      <workItem from="1547000799590" duration="18031000" />
+      <workItem from="1547000799590" duration="22427000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55694000" />
+    <option name="totallyTimeSpent" value="60090000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1904762" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -631,81 +504,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/citypoint.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/echeng.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/fuwushangimg.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/information.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/information1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/information2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/information3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/information4.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/information5.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/position2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/red_star.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/renzheng.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/aboutbanner.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/images/banner1.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -716,31 +514,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/banner3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/city.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/comment.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-810">
-          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -838,29 +615,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-891">
           <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
             <element signature="e#1297#1362#0" expanded="false" />
             <element signature="e#1387#1452#0" expanded="false" />
             <element signature="e#1537#1757#0" expanded="false" />
@@ -882,13 +642,136 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/city.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/comment.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810">
+          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/red_star.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/position2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/information5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/information4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/information3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/information2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/information1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/information.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/fuwushangimg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/echeng.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/citypoint.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/banner3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/aboutbanner.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/renzheng.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="163" column="22" lean-forward="false" selection-start-line="163" selection-start-column="16" selection-end-line="163" selection-end-column="22" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/stylus/main.styl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-216">
-          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        <state relative-caret-position="323">
+          <caret line="383" column="0" lean-forward="false" selection-start-line="383" selection-start-column="0" selection-end-line="383" selection-end-column="0" />
           <folding>
+            <element signature="e#20#2679#0" expanded="false" />
             <element signature="e#2698#4378#0" expanded="false" />
             <element signature="e#3013#3873#0" expanded="false" />
+            <element signature="e#4392#6979#0" expanded="false" />
+            <element signature="e#6996#7812#0" expanded="false" />
+            <element signature="e#7100#7265#0" expanded="false" />
+            <element signature="e#7826#8394#0" expanded="false" />
+            <element signature="e#8408#9083#0" expanded="false" />
           </folding>
         </state>
       </provider>
