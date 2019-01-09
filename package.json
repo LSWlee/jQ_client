@@ -2,8 +2,7 @@
   "name": "daowei",
   "version": "1.0.0",
   "scripts": {
-    "start": "gulp livereload",
-    "server" : "node app.js"
+    "start": "concurrently \"node app.js\" \"gulp livereload\" "
   },
   "devDependencies": {
     "gulp": "^3.9.1",
@@ -21,6 +20,7 @@
   },
   "dependencies": {
     "cors": "^2.8.4",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "swiper": "^4.4.6"
   }
 }
