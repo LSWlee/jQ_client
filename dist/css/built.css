@@ -429,6 +429,16 @@
   vertical-align: middle;
   width: 100px;
 }
+#main .footer {
+  height: 40px;
+  line-height: 40px;
+  padding-top: 0;
+}
+#main .footer p {
+  width: 1200px;
+  margin: 0 auto;
+  text-align: left;
+}
 @-moz-keyframes on {
   from {
     transform: translateY(-130px) rotateX(-90deg);
@@ -570,4 +580,362 @@ body {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+
+#shop .header {
+  transform-style: preserve-3d;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  z-index: 10;
+  width: 100%;
+  height: 130px;
+}
+#shop .header .head {
+  width: 100%;
+  height: 40px;
+  background: #f1f1f1;
+  transition: transform 1s;
+}
+#shop .header .head.on {
+  animation: on 1s;
+}
+#shop .header .head .content {
+  width: 1200px;
+  height: 100%;
+  margin: 0 auto;
+}
+#shop .header .head .content .left {
+  float: left;
+  width: 175px;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#shop .header .head .content .left span:nth-child(2) {
+  color: #000;
+  font-weight: bold;
+}
+#shop .header .head .content .left img {
+  display: inline-block;
+  vertical-align: middle;
+}
+#shop .header .head .content .nav {
+  display: flex;
+  float: right;
+  height: 100%;
+}
+#shop .header .head .content .nav ul {
+  height: 100%;
+  display: flex;
+}
+#shop .header .head .content .nav ul li {
+  float: left;
+  height: 100%;
+  padding: 0 15px;
+}
+#shop .header .head .content .nav ul li a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  color: #000;
+  width: 100%;
+  height: 100%;
+}
+#shop .header .head .content .nav ul li a.active {
+  color: #f00;
+}
+#shop .header .head .nav-search {
+  width: 1200px;
+  height: 90px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+}
+#shop .header .head .nav-search div {
+  float: left;
+}
+#shop .header .head .nav-search .logo {
+  width: 280px;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#shop .header .head .search {
+  width: 600px;
+  height: 38px;
+  margin-left: 100px;
+  border: 2px solid #f00;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+#shop .header .head .search .iconfont {
+  color: #999;
+  position: absolute;
+  left: 23px;
+  top: 12px;
+  font-weight: bold;
+}
+#shop .header .head .search input {
+  width: 70%;
+  height: 30px;
+  outline: none;
+  margin-left: 60px;
+  padding: 0 30px 0 0;
+  font-size: 15px;
+}
+#shop .header .head .search button {
+  width: 20%;
+  height: 100%;
+  background: #f00;
+  outline: none;
+  border: 1px solid #f00;
+  color: #fff;
+  font-weight: bold;
+}
+#shop .header .head .code {
+  width: 90px;
+  height: 100%;
+  position: relative;
+  left: 125px;
+  top: 0px;
+  text-align: center;
+}
+#shop .header .head .code .toggle {
+  width: 0;
+  height: 0;
+  border-top: 8px solid transparent;
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-bottom: 8px solid #fff;
+  position: absolute;
+  left: 35px;
+  top: -15px;
+}
+#shop .header .head .code img {
+  width: 100%;
+}
+#shop .serve {
+  margin-top: 130px;
+  background: #dcdcdc;
+}
+#shop .serve .container {
+  width: 1200px;
+  margin: 0 auto;
+}
+#shop .serve .container h2 {
+  line-height: 85px;
+  width: 1200px;
+  margin: 0 auto;
+  font-size: 18px;
+}
+#shop .serve .container .shops {
+  width: 970px;
+  float: left;
+  margin-bottom: 50px;
+}
+#shop .serve .container .shops ul {
+  overflow: hidden;
+}
+#shop .serve .container .shops ul li {
+  box-sizing: border-box;
+  width: 232px;
+  height: 300px;
+  border: 1px solid #eaeaea;
+  padding: 10px;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  background: #fff;
+  cursor: pointer;
+}
+#shop .serve .container .shops ul li a img {
+  vertical-align: middle;
+  width: 210px;
+  height: 210px;
+}
+#shop .serve .container .shops ul li a .title {
+  margin-top: 15px;
+  height: 26px;
+  line-height: 26px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+#shop .serve .container .shops ul li a .title img {
+  margin-right: 6px;
+  margin-bottom: 5px;
+  vertical-align: middle;
+  width: 18px;
+  height: 17px;
+}
+#shop .serve .container .shops ul li a .title span {
+  font-size: 16px;
+  margin-left: 0.1rem;
+  font-weight: 700;
+  color: #000;
+}
+#shop .serve .container .shops ul li a .ticket {
+  height: 26px;
+  line-height: 26px;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-top: 10px;
+}
+#shop .serve .container .shops ul li a .ticket .left {
+  float: left;
+  font-size: 12px;
+  color: #929292;
+}
+#shop .serve .container .shops ul li a .ticket .right {
+  float: right;
+  font-size: 12px;
+  color: #929292;
+}
+#shop .serveList {
+  width: 100%;
+  margin: 0 auto;
+  height: 152px;
+  clear: both;
+  text-align: center;
+}
+#shop .serveList .btn {
+  width: 200px;
+  height: 50px;
+  line-height: 50px;
+  border: 1px solid #e5e5e5;
+  border-radius: 5px;
+  margin: 50px 5px;
+  background: #fff;
+  display: inline-block;
+  font-size: 16px;
+  color: #b1b1b1;
+  cursor: pointer;
+}
+#shop .baozhang {
+  width: 100%;
+}
+#shop .baozhang .container {
+  width: 1200px;
+  background: #ffc0cb;
+  margin: 0 auto;
+}
+#shop .baozhang .container h2 {
+  font-size: 30px;
+  font-family: "微软雅黑";
+  font-weight: 800;
+  text-align: center;
+}
+#shop .baozhang .container h2 span {
+  color: #fb474f;
+  font-weight: bold;
+}
+#shop .baozhang .container p {
+  font-size: 22px;
+  color: #3d3838;
+  margin: 0;
+  text-align: center;
+  padding: 10px 0px;
+}
+#shop .baozhang .container .xuanze {
+  width: 100%;
+  padding-top: 20px;
+  background: #fff;
+  height: 66px;
+  font-family: "微软雅黑";
+}
+#shop .baozhang .container .xuanze ul {
+  display: flex;
+  justify-content: center;
+}
+#shop .baozhang .container .xuanze ul li {
+  width: 12%;
+  text-align: center;
+  color: #1d1515;
+  font-size: 18px;
+}
+#shop .baozhang .container .xuanze ul li img {
+  display: inline-block;
+  vertical-align: middle;
+}
+#shop .citys {
+  width: 100%;
+  clear: both;
+  padding-top: 50px;
+  height: 170px;
+  background: #fff;
+}
+#shop .citys dl {
+  width: 1200px;
+  margin: 0 auto;
+}
+#shop .citys dl dt {
+  float: left;
+  font-family: " 微软雅黑";
+  font-size: 18px;
+}
+#shop .citys dl dd {
+  margin-left: 30px;
+  width: 1090px;
+  line-height: 30px;
+  float: left;
+}
+#shop .citys dl dd a {
+  font-size: 16px;
+  color: #898989;
+  display: inline-block;
+  width: 9%;
+  text-align: center;
+  font-weight: 200;
+  cursor: pointer;
+  font-family: "微软雅黑";
+}
+#shop .footer {
+  height: 40px;
+  line-height: 40px;
+  padding-top: 0;
+}
+#shop .footer p {
+  width: 1200px;
+  margin: 0 auto;
+  text-align: left;
+}
+@-moz-keyframes on {
+  from {
+    transform: translateY(-130px) rotateX(-90deg);
+  }
+  to {
+    transform: translateY(0px) rotateX(0deg);
+  }
+}
+@-webkit-keyframes on {
+  from {
+    transform: translateY(-130px) rotateX(-90deg);
+  }
+  to {
+    transform: translateY(0px) rotateX(0deg);
+  }
+}
+@-o-keyframes on {
+  from {
+    transform: translateY(-130px) rotateX(-90deg);
+  }
+  to {
+    transform: translateY(0px) rotateX(0deg);
+  }
+}
+@keyframes on {
+  from {
+    transform: translateY(-130px) rotateX(-90deg);
+  }
+  to {
+    transform: translateY(0px) rotateX(0deg);
+  }
 }
