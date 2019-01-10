@@ -91,7 +91,12 @@ $(function () {
         }).mouseleave(function () {
           $(this).css('box-shadow','')
         })
+        $('.shops ul li').click(function () {
+          window.location.href = 'shopInfo.html'
+        })
       })
     })
   }
+
+
 })
